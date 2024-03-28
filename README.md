@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋](https://github-profile-trophy.vercel.app/?username=nexeck&theme=flat)
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
