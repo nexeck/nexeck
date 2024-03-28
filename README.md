@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nexeck&theme=flat&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nexeck&theme=nord&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
