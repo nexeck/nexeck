@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;ab&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/nexeck/dotfiles-zsh/commit/ab462294cb38163895333d91c386dd6fca989d21"><strong>ab</strong>462294cb38163895333d91c386dd6fca989d21</a>
+- <a href="https://github.com/nexeck/nexeck/commit/ab50fd1332d9aec8adbe952af9e7be321be8f1f3"><strong>ab</strong>50fd1332d9aec8adbe952af9e7be321be8f1f3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
