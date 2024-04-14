@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/grpc/grpc-web">grpc/grpc-web: ★8280</a>
+* <a href="https://github.com/grpc/grpc-web">grpc/grpc-web: ★8281</a>
 * <a href="https://github.com/nexeck/ansible-hetzner-install">nexeck/ansible-hetzner-install: ★5</a>
 * <a href="https://github.com/jansepke/historic-stock-market-crashes">jansepke/historic-stock-market-crashes: ★5</a>
 * <a href="https://github.com/nexeck/t1-sim">nexeck/t1-sim: ★4</a>
